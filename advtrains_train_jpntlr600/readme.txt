@@ -2,7 +2,7 @@
 -- JAPAN TRAM TLR0600<Toyama Light Rail model>
 -- by takaosan
 -----------------------------------------------
-https://mainotech.jimdo.com/
+https://github.com/takao-soramu/advtrains_train_jpntlr600
 --update
 Last update: 18.10.2020
 
@@ -21,8 +21,8 @@ https://advtrains.de/
 Using this mod is at your own risk.I can not be held liable or responsible for any damages caused by using this data.
 
 
-‚±‚ÌMod‚ÍAMinetestŒü‚¯ADVTRAINS Mod‚ÌƒAƒhƒIƒ“ƒf[ƒ^‚Å‚·B‚±‚ê’P‘Ì‚Å‚Í—˜—p‚Å‚«‚Ü‚¹‚ñ
+ã“ã®Modã¯ã€Minetestå‘ã‘ADVTRAINS Modã®ã‚¢ãƒ‰ã‚ªãƒ³ãƒ‡ãƒ¼ã‚¿ã§ã™ã€‚ã“ã‚Œå˜ä½“ã§ã¯åˆ©ç”¨ã§ãã¾ã›ã‚“
 
-‚±‚ÌMod‚Å¶‚¶‚½‚¢‚©‚È‚é‘¹ŠQ‚àA»ìÒ‚ÍˆêØ‚ÌÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñ
+ã“ã®Modã§ç”Ÿã˜ãŸã„ã‹ãªã‚‹æå®³ã‚‚ã€è£½ä½œè€…ã¯ä¸€åˆ‡ã®è²¬ä»»ã‚’è² ã„ã¾ã›ã‚“
 
-ADVTRAINS Mod‚Ìƒ‰ƒCƒZƒ“ƒX‚ğŒp³‚µ‚Ü‚·
+ADVTRAINS Modã®ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã‚’ç¶™æ‰¿ã—ã¾ã™
